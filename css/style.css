@@ -82,33 +82,7 @@ body {
   font-size: 1px;
   z-index: -1;
 }
-/*
-#fnlabel {
-  margin-top: 3px;
-  font-size: 10px;
-  padding-left: 20px;
-  position: absolute;
-}
-#lnlabel {
-  margin-top: 3px;
-  font-size: 10px;
-  left: 430px;
-  padding-left: 20px;
-  position: absolute;
-}
-#maillabel {
-  margin-top: 3px;
-  font-size: 10px;
-  padding-left: 20px;
-  position: absolute;
-}
-#passwlabel {
-  margin-top: 3px;
-  font-size: 10px;
-  padding-left: 20px;
-  position: absolute;
-}
-*/
+
 #labelbg {
   display: block;
   width: 180px;
